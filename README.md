@@ -2,6 +2,8 @@
 
 A modern, user-friendly converter from CRON expressions to Proxmox schedules (systemd calendar events), fully compliant with the official [Proxmox Calendar Events documentation](https://pve.proxmox.com/wiki/Calendar_Events).
 
+**After generating the schedule, you can test it directly in Proxmox: go to Datacenter → Backup → Schedule Simulator.**
+
 ## Features
 
 - **Convert CRON (5 fields) to Proxmox/systemd calendar event format**
@@ -33,6 +35,7 @@ A modern, user-friendly converter from CRON expressions to Proxmox schedules (sy
 2. Enter a CRON expression (5 fields) or select an example from the list.
 3. Click **Generate** – you'll get a Proxmox schedule ready to use.
 4. Copy the generated expression with a single click.
+5. **Test your schedule in Proxmox: Datacenter → Backup → Schedule Simulator.**
 
 ## Example usage
 
@@ -51,15 +54,15 @@ A modern, user-friendly converter from CRON expressions to Proxmox schedules (sy
 
 Project inspired by the needs of IT administrators and Proxmox documentation.
 
-## License
 
-Public Domain – free for any use.
 
 ---
 
 # CRON → Proxmox Schedule Converter (Polski)
 
 Nowoczesny, wygodny konwerter wyrażeń CRON na harmonogramy Proxmox (systemd calendar events), zgodny z dokumentacją Proxmox: [Proxmox Calendar Events](https://pve.proxmox.com/wiki/Calendar_Events).
+
+**Po wygenerowaniu harmonogramu możesz go przetestować bezpośrednio w Proxmox: Datacenter → Backup → Schedule Simulator.**
 
 ## Funkcje
 
@@ -92,6 +95,7 @@ Nowoczesny, wygodny konwerter wyrażeń CRON na harmonogramy Proxmox (systemd ca
 2. Wprowadź wyrażenie CRON (5 pól) lub wybierz przykład z listy.
 3. Kliknij **Generuj** – otrzymasz harmonogram Proxmox gotowy do użycia.
 4. Skopiuj wygenerowane wyrażenie jednym kliknięciem.
+5. **Przetestuj swój harmonogram w Proxmox: Datacenter → Backup → Schedule Simulator.**
 
 ## Przykładowe użycie
 
@@ -110,6 +114,3 @@ Nowoczesny, wygodny konwerter wyrażeń CRON na harmonogramy Proxmox (systemd ca
 
 Projekt inspirowany potrzebami administratorów IT oraz dokumentacją Proxmox.
 
-## Licencja
-
-Domena publiczna – do dowolnego użytku.
