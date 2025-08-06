@@ -12,9 +12,6 @@ A modern, user-friendly converter from CRON expressions to Proxmox schedules (sy
 - **User-friendly UX** – hints, validation, error handling
 - **Easy result copying**
 
-## Demo
-
-![Screenshot](demo.png)
 
 ## Popular backup schedule examples
 
@@ -71,10 +68,6 @@ Nowoczesny, wygodny konwerter wyrażeń CRON na harmonogramy Proxmox (systemd ca
 - **Popularne harmonogramy backupów** – gotowe przykłady do kliknięcia
 - **Przyjazny UX** – podpowiedzi, walidacja, obsługa błędów
 - **Łatwe kopiowanie wyniku**
-
-## Demo
-
-![Zrzut ekranu](demo.png)
 
 ## Przykłady popularnych harmonogramów backupów
 
